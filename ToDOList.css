@@ -1,0 +1,42 @@
+body {
+    font-family: jetbrains-mono, monospace;
+    max-width: 500px;
+    margin: 60px auto;
+    padding: 24px;
+    text-align: center;
+    background-color: #fcfcfc;
+    color: #1a1a1a;
+}
+input {
+    font-family: jetbrains-mono, monospace;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+h1 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #00060b;
+}
+
+h2 {
+    font-size: 14px;
+    font-weight: 400;
+    color: #666666;
+}
+
+button {
+    font-family: jetbrains-mono, monospace;
+    background-color: #db4234;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+}
